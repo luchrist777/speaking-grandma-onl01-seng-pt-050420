@@ -1,3 +1,24 @@
+def speak_to_grandma(arg)
+  if arg == "I LOVE YOU GRANDMA!"
+    return "I LOVE YOU TOO PUMPKIN!"
+    elsif arg == arg.upcase
+     return "NO, NOT SINCE 1938!"
+    else
+      arg == arg.downcase
+    return "HUH?! SPEAK UP, SONNY!"
+  end
+end
+ 
+
+
+
+
+
+
+
+
+
+
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
